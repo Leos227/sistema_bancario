@@ -1,0 +1,4 @@
+[2025-07-28 16:33:27.295112-03:00] Função '__init__'executada com argumentos (<Conta: ('13','76730307','1')>, <PessoaFisica: (1)>) e {}. Retornou {resultado}
+[2025-07-28 16:33:42.206708-03:00] Função 'depositar'executada com argumentos (<Conta: ('13','76730307','1')>, 500.0) e {}. Retornou {resultado}
+[2025-07-28 16:35:09.623413-03:00] Função '__init__'executada com argumentos (<Conta: ('13','80546656','1')>, <PessoaFisica: (1)>) e {}. Retornou None
+[2025-07-28 16:35:24.167131-03:00] Função 'depositar'executada com argumentos (<Conta: ('13','80546656','1')>, 400.0) e {}. Retornou None
